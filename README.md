@@ -1,6 +1,6 @@
 # Old-Youtube-Layout-2021
 
-Use stylus to install theme
+Use stylus to add the theme with oldyoutubev2.txt
 
 Use Tampermonkey to install all the js scipt
 
